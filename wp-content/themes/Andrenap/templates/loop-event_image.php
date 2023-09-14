@@ -1,0 +1,1 @@
+<img src="<?php the_field('event_image'); ?>" />
